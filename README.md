@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 
 I'm Rudraksh Sachin Joshi (@RudrakshSJoshi), a third-year **Computer Science and Engineering Student** at the **Indian Institute of Technology Dhanbad**. I’m a passionate tech enthusiast, fascinated by **Artificial Intelligence**, **Machine Learning**, **NLP**, and **Full-Stack Development**. My interests drive me to explore new technologies and create impactful projects.
 
-![Profile Pic](./images/pixelcut-export (1) (1).png)
+![Profile Pic](<images/pixelcut-export (1) (1).png>)
 
 ---
 
@@ -58,12 +58,12 @@ I'm like my code—better once you get to know me.
 
 ### 🎨 Social and Creative Engagements
 
-- **Sketching Enthusiast**: [Check out my work](https://www.instagram.com/relativistic.proton/)
-  - ![Sketch1](./images/pixelcut-export (3) (15).jpeg)
-  - ![Sketch2](./images/pixelcut-export (10) (1).jpeg)
+- **Sketching Enthusiast**: [ig: @relativstic.proton](https://www.instagram.com/relativistic.proton/)
+  - ![Sketch1](<images/pixelcut-export (3) (15).jpeg>)
+  - ![Sketch2](<images/pixelcut-export (10) (1).jpeg>)
 - **Anime Aficionado**: Favorites include *Steins;Gate* and *Terror in Resonance*
-  - ![Steins;Gate](./images/541433 (1).jpg)
-  - ![TerrorInResonance](./images/pixelcut-export (16).jpeg)
+  - ![Steins;Gate](<images/541433 (1).jpg>)
+  - ![TerrorInResonance](<images/pixelcut-export (16).jpeg>)
 - Passionate about **stargazing, swimming, playing chess,** and **badminton**.
 
 ---
