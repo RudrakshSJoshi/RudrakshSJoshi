@@ -1,7 +1,7 @@
 ### Hey! It's <br>
 # *ルーディ*
 
-<img src="images/VSN.png" width="300" />
+<img src="images/pixelcut-export (1) (1).png" width="300" />
 
 Welcome to my GitHub profile! 
 I'm Rudraksh Sachin Joshi (@RudrakshSJoshi), a third-year **Computer Science and Engineering Student** at the **Indian Institute of Technology Dhanbad**. I’m a passionate tech enthusiast, fascinated by **Artificial Intelligence**, **Machine Learning**, **NLP**, and **Full-Stack Development**. My interests drive me to explore new technologies and create impactful projects.
@@ -63,7 +63,7 @@ I'm like my code—better once you get to know me.
     <br> <!-- This adds a gap -->
 
     - *To Your Eternity*  <br>
-      <img src="images/pixelcut-export (3) (15).jpeg" width="400" />
+      <img src="images/to_your_eternity.jpeg" width="400" />
 
     <br> <!-- This adds a gap -->
 
