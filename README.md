@@ -1,10 +1,6 @@
-## 👋 *やあ！* **ルーディ** *です！*
-
-Good idea! Here’s the intro with only your name in bold and the rest in italics to soften the look:
-
----
-
-This should make your name stand out while keeping the rest a bit lighter with italics. Let me know if this achieves the style you're aiming for!
+## 👋 *やあ！*  
+# **ルーディ**  
+## *です！*
 
 Welcome to my GitHub profile! 
 I'm Rudraksh Sachin Joshi (@RudrakshSJoshi), a third-year **Computer Science and Engineering Student** at the **Indian Institute of Technology Dhanbad**. I’m a passionate tech enthusiast, fascinated by **Artificial Intelligence**, **Machine Learning**, **NLP**, and **Full-Stack Development**. My interests drive me to explore new technologies and create impactful projects.
