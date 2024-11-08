@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Rudraksh S Joshi
+# 👋 やあ！**ルーディ** です！
 
 Welcome to my GitHub profile! 
 I'm Rudraksh Sachin Joshi (@RudrakshSJoshi), a third-year **Computer Science and Engineering Student** at the **Indian Institute of Technology Dhanbad**. I’m a passionate tech enthusiast, fascinated by **Artificial Intelligence**, **Machine Learning**, **NLP**, and **Full-Stack Development**. My interests drive me to explore new technologies and create impactful projects.
@@ -58,17 +58,32 @@ I'm like my code—better once you get to know me.
 
 ### 🎨 Social and Creative Engagements
 
-- **Sketching Enthusiast**: [ig: @relativstic.proton](https://www.instagram.com/relativistic.proton/)
-  - ![Sketch1](<images/pixelcut-export (3) (15).jpeg>)
-  - ![Sketch2](<images/pixelcut-export (10) (1).jpeg>)
-- **Anime Aficionado**: Favorites include *Steins;Gate* and *Terror in Resonance*
-  - ![Steins;Gate](<images/541433 (1).jpg>)
-  - ![TerrorInResonance](<images/pixelcut-export (16).jpeg>)
-- Passionate about **stargazing, swimming, playing chess,** and **badminton**.
+- **Sketching Enthusiast**: [ig: @relativistic.proton](https://www.instagram.com/relativistic.proton/)
+    <br> <!-- This adds a gap -->
 
----
+    - *To Your Eternity*  <br>
+      ![Sketch1](images/pixelcut-export%20(3)%20(15).jpeg)  
 
-Let me know if you'd like any other adjustments!
+    <br> <!-- This adds a gap -->
+
+    - *Jujutsu Kaisen Manga*  <br>
+      ![Sketch2](images/pixelcut-export%20(10)%20(1).jpeg)  
+
+<br> <!-- Another gap -->
+
+- **Anime Aficionado**: My Personal Favourites:  
+    <br> <!-- This adds a gap -->
+    - *Steins;Gate*  <br>
+      ![Steins;Gate](images/541433%20(1).jpg)  
+
+    <br>
+
+    - *Terror in Resonance*  <br>
+      ![TerrorInResonance](images/pixelcut-export%20(16).jpeg)  
+
+<br>
+
+- Passionate about **stargazing, swimming, playing chess,** and **badminton**. <br>
 
 ---
 
