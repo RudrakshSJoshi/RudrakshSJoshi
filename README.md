@@ -1,6 +1,6 @@
-## 👋 *やあ！*  
-# **ルーディ**  
-## *です！*
+### 👋 やあ！ <br> 
+# *ルーディ* <br> 
+### です！
 
 Welcome to my GitHub profile! 
 I'm Rudraksh Sachin Joshi (@RudrakshSJoshi), a third-year **Computer Science and Engineering Student** at the **Indian Institute of Technology Dhanbad**. I’m a passionate tech enthusiast, fascinated by **Artificial Intelligence**, **Machine Learning**, **NLP**, and **Full-Stack Development**. My interests drive me to explore new technologies and create impactful projects.
