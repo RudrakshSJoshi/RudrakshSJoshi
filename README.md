@@ -1,4 +1,4 @@
-## 👋 *やあ！***ルーディ** *です！*
+## 👋 *やあ！* **ルーディ** *です！*
 
 Good idea! Here’s the intro with only your name in bold and the rest in italics to soften the look:
 
