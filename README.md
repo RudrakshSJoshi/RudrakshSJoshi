@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! 
 I'm Rudraksh Sachin Joshi (@RudrakshSJoshi), a third-year **Computer Science and Engineering Student** at the **Indian Institute of Technology Dhanbad**. I’m a passionate tech enthusiast, fascinated by **Artificial Intelligence**, **Machine Learning**, **NLP**, and **Full-Stack Development**. My interests drive me to explore new technologies and create impactful projects.
 
-![Profile Pic](<images/pixelcut-export (1) (1).png>)
+<img src="images/pixelcut-export (1) (1).png" width="50" />
 
 ---
 
@@ -63,24 +63,24 @@ I'm like my code—better once you get to know me.
     <br> <!-- This adds a gap -->
 
     - *To Your Eternity*  <br>
-      ![Sketch1](images/pixelcut-export%20(3)%20(15).jpeg)  
+      <img src="images/pixelcut-export (3) (15).jpeg" width="250" />
 
     <br> <!-- This adds a gap -->
 
     - *Jujutsu Kaisen Manga*  <br>
-      ![Sketch2](images/pixelcut-export%20(10)%20(1).jpeg)  
+      <img src="images/pixelcut-export (10) (1).jpeg" width="250" />   
 
 <br> <!-- Another gap -->
 
 - **Anime Aficionado**: My Personal Favourites:  
     <br> <!-- This adds a gap -->
     - *Steins;Gate*  <br>
-      ![Steins;Gate](images/541433%20(1).jpg)  
+      <img src="images/541433 (1).jpg" width="250" />  
 
     <br>
 
     - *Terror in Resonance*  <br>
-      ![TerrorInResonance](images/pixelcut-export%20(16).jpeg)  
+      <img src="images/pixelcut-export (16).jpeg" width="250" />  
 
 <br>
 
