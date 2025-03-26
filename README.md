@@ -63,6 +63,6 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,nginx,vercel)](https://skillicons.dev)
 
 ### 🛠️ Tools, Platforms & Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,cmake,raspberrypi,anaconda,vscode,visualstudio,pycharm,vite,postman,discord,wasm,graphql,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,cmake,raspberrypi,anaconda,vscode,visualstudio,pycharm,postman,wasm,graphql,arduino)](https://skillicons.dev)
 
 ---
