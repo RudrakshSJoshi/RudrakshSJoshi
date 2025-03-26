@@ -1,9 +1,7 @@
-# こんにちは!   
----
-
 ![PFP GIF](pfp.gif) 
 
----
+# こんにちは!   
+
 ## 🧠 About Me  
 - 🚀 Currently working on **ViTs, VAEs, LLMs/SLMs, Zero-Knowledge Machine Learning, Distributed & Federated Learning, Data-Centric AI, Machine Unlearning**  
 - 🔬 Focused on **AI in Blockchain & Healthcare, Human-Interaction AI, AGI, Data & Learning Optimization in ML**
