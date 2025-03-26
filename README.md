@@ -3,14 +3,16 @@
 # こんにちは!   
 
 ## 🧠 About Me  
-- 🚀 Currently working on **ViTs, VAEs, LLMs/SLMs, Zero-Knowledge Machine Learning, Distributed & Federated Learning, Data-Centric AI, Machine Unlearning**  
-- 🔬 Focused on **AI in Blockchain & Healthcare, Human-Interaction AI, AGI, Data & Learning Optimization in ML**
+
+- 🚀 Currently working on **Vision Transformers (ViTs), Variational Autoencoders (VAEs), Large Language Models (LLMs) / Small Language Models (SLMs), Zero-Knowledge Machine Learning, Distributed & Federated Learning, Data-Centric AI, and Machine Unlearning**  
+- 🔬 Focused on **AI in Blockchain & Healthcare, Human-AI Interaction, Artificial General Intelligence (AGI), and Data & Learning Optimization in Machine Learning**  
 
 ---
 
 ## 📬 Reach Me At  
-- 📧 **Mail**: rsjoshi0505@gmail.com  
+- 📧 **Email**: rsjoshi0505@gmail.com  
 - 💼 **LinkedIn**: [rudraksh-sachin-joshi](https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/)  
+- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1s8SD3o8eOj5az0xiDUuKzGmT3I3SwyJo/view?usp=sharing)  
 
 ---
 
