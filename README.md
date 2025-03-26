@@ -1,4 +1,4 @@
-<img src="pfp.gif" style="width:100%;" /> 
+<img src="data_gif.gif" style="width:100%;" /> 
 
 # こんにちは!   
 
