@@ -44,7 +44,7 @@
 ## 📬 Reach Me At  
 - 📧 **Email**: rsjoshi0505@gmail.com  
 - 💼 **LinkedIn**: [rudraksh-sachin-joshi](https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/)  
-- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1s8SD3o8eOj5az0xiDUuKzGmT3I3SwyJo/view?usp=sharing)  
+- 📄 **Resume**: [View Here](https://drive.google.com/file/d/121AqjeCANecCV0zmlW6gdlNSAM21Nn5W/view?usp=drivesdk)  
 
 ---
 
