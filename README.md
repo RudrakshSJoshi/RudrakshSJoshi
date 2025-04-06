@@ -27,7 +27,7 @@
 
 ### 🚀 Competitions & Hackathons  
 - **Wallet Risk Scoring on Base Winner** *(By Base, Virtual, and Hyperbolic)*  
-- **Aleph Hackathon Stellar Track World Winner & Best Project Overall** *(By Mantle, ZkSync, Stellar, and Polkadot)*  
+- **Aleph Hackathon Stellar Track Winner & Best Project Overall** *(By World, Mantle, ZkSync, Stellar, and Polkadot)*  
 - **HackFest’24 2nd Runner-Up** *(IIT (ISM) Dhanbad)*  
 - **Agglomeration 1.0 2nd Runner-Up** *(IIT (ISM) Dhanbad)*  
 - **eYRC 2023-24 Software Implementation Team AIR 26** *(IIT Bombay)*  
