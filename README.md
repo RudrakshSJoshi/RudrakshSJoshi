@@ -3,7 +3,7 @@
 # ちーっす！  
 
 ## 🧠 About Me  
-- I am **Rudraksh**, a third-year CS undergrad at **IIT Dhanbad**.  
+- I am **Rudraksh**, a fourth-year CS undergrad at **IIT Dhanbad**.  
 - Passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
 - 🚀 Currently working on:  
   - **Vision Transformers (ViTs)**  
