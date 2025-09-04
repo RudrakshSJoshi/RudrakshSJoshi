@@ -32,13 +32,6 @@
 - **Agglomeration 1.0 2nd Runner-Up** *(IIT (ISM) Dhanbad)*  
 - **eYRC 2023-24 Software Implementation Team AIR 26** *(IIT Bombay)*  
 
-### 🎓 Academic Achievements  
-- **JEE Advanced 2022 AIR 2741**  
-- **JEE Mains 2022 AIR 3676**  
-
-### 💻 Competitive Programming  
-- **CodeForces Max Rating 1442** *(Best Global Rank 1508)*  
-
 ---
 
 ## 📬 Reach Me At  
