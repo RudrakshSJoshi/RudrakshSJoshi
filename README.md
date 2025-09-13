@@ -23,10 +23,10 @@
   <div style="flex: 1; background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: left;">
 
   <h2>🧠 About Me</h2>
-  <p>
+  <h3>
     I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
     <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
-  </p>
+  </h3>
 
   <table>
   <tr>
@@ -62,13 +62,15 @@
   <hr>
 
   <h2>🏆 Achievements</h2>
-  <ul>
-    <li><b>Wallet Risk Scoring on Base Winner</b> (Base, Virtual, Hyperbolic)</li>
-    <li><b>Aleph Hackathon Stellar Track Winner & Best Overall</b> (Mantle, ZkSync, Stellar, Polkadot)</li>
-    <li><b>HackFest'24 2nd Runner-Up</b> (IIT Dhanbad)</li>
-    <li><b>Agglomeration 1.0 2nd Runner-Up</b> (IIT Dhanbad)</li>
-    <li><b>eYRC 2023-24 AIR 26</b> (IIT Bombay)</li>
-  </ul>
+- Winner: DeepFunding Competition – Contribution Modeling for Ethereum Open Source Ecosystem  
+- Winner: Aleph – LATAM Hackathon in AI Track by Protocol Labs  
+- Winner: Chromion – Chainlink Hackathon for AI-backed Cross Chain AMM CCIP Protocol on Avalanche Track  
+- Winner: Warpspeed – Agentic AI Hackathon for Agentic Security Research Development on Base Ecosystem  
+- Winner: Wallet Risk Scoring on Base (By Base, Virtual and Hyperbolic)  
+- Winner – Stellar Track & Best Overall Project: Aleph Hackathon (By World, Mantle, zkSync, Stellar, and Polkadot)  
+- 2nd Runner-Up: HackFest’24, IIT (ISM) Dhanbad  
+- 2nd Runner-Up: Agglomeration 1.0, IIT (ISM) Dhanbad  
+- Secured Team AIR 26: eYRC 2023-24 (Software Implementation)
 
   <hr>
 
