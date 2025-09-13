@@ -29,34 +29,51 @@
   </h3>
 
   <table>
-  <tr>
-    <td>
-      <h2>🚀 Working On</h2>
-      <ul>
-        <li>Vision Transformers (ViTs)</li>
-        <li>Variational Autoencoders (VAEs)</li>
-        <li>Large & Small Language Models (LLMs/SLMs)</li>
-        <li>Zero-Knowledge Machine Learning</li>
-        <li>Federated Learning</li>
-        <li>Data-Centric AI</li>
-        <li>Machine Unlearning</li>
-        <li>Blockchain & Healthcare AI</li>
-        <li>Human-AI Interaction</li>
-        <li>AGI Research</li>
-        <li>Learning Optimization</li>
-        <li>Multi-Agent Systems</li>
-        <li>AgenticAI</li>
-      </ul>
-    </td>
-    <td align="right">
-      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" 
-           alt="Hilbert" width="180" height="180" />
-      <br>
-      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" 
-           alt="Hilda" width="180" height="180" />
-    </td>
-  </tr>
+<tr>
+  <!-- Left column: Working On list -->
+  <td valign="top">
+    <h2>🚀 Working On</h2>
+    <ul>
+      <li>Vision Transformers (ViTs)</li>
+      <li>Variational Autoencoders (VAEs)</li>
+      <li>Large & Small Language Models (LLMs/SLMs)</li>
+      <li>Zero-Knowledge Machine Learning</li>
+      <li>Federated Learning</li>
+      <li>Data-Centric AI</li>
+      <li>Machine Unlearning</li>
+      <li>Blockchain & Healthcare AI</li>
+      <li>Human-AI Interaction</li>
+      <li>AGI Research</li>
+      <li>Learning Optimization</li>
+      <li>Multi-Agent Systems</li>
+      <li>AgenticAI</li>
+    </ul>
+  </td>
+
+  <!-- Right column: 2x2 images -->
+  <td valign="top" align="center">
+    <table>
+      <tr>
+        <td>
+          <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="90" />
+        </td>
+        <td>
+          <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="90" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://archives.bulbagarden.net/media/upload/0/0c/Spr_B2W2_Nate.png" width="90" />
+        </td>
+        <td>
+          <img src="https://archives.bulbagarden.net/media/upload/5/5d/Spr_B2W2_Rosa.png" width="90" />
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
 </table>
+
 </div>
 
 <hr>
