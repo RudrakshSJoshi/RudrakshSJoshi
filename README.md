@@ -129,11 +129,31 @@
 <hr>
 
 <h2>📬 Reach Me</h2>
-<p>
-  📧 <b>Email:</b> rsjoshi0505@gmail.com <br>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/">rudraksh-sachin-joshi</a> <br>
-  📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">View Here</a>
-</p>
+<!-- Contact Info Box -->
+<div style="border: 2px solid #8A2BE2; border-radius: 12px; padding: 25px; text-align: center; max-width: 800px; margin: auto; background-color: #f3e8ff; font-size: 1.3em;">
+  📧 <b>Email:</b> <a href="mailto:rsjoshi0505@gmail.com">Send me a PokéMail!</a> <br><br>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/">Connect in Trainer Style</a> <br><br>
+  📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">Catch my Trainer Log!</a>
+</div>
+
+<br>
+
+<!-- Pokémon GIF Grid -->
+<div class="grid cards" markdown>
+-   [![Bulbasaur](https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif)](https://pokemondb.net/pokedex/bulbasaur)
+-   [![Charmander](https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif)](https://pokemondb.net/pokedex/charmander)
+-   [![Squirtle](https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif)](https://pokemondb.net/pokedex/squirtle)
+-   [![Chikorita](https://img.pokemondb.net/sprites/black-white/anim/normal/chikorita.gif)](https://pokemondb.net/pokedex/chikorita)
+-   [![Cyndaquil](https://img.pokemondb.net/sprites/black-white/anim/normal/cyndaquil.gif)](https://pokemondb.net/pokedex/cyndaquil)
+-   [![Totodile](https://img.pokemondb.net/sprites/black-white/anim/normal/totodile.gif)](https://pokemondb.net/pokedex/totodile)
+-   [![Treecko](https://img.pokemondb.net/sprites/black-white/anim/normal/treecko.gif)](https://pokemondb.net/pokedex/treecko)
+-   [![Treecko](https://img.pokemondb.net/sprites/black-white/anim/normal/treecko.gif)](https://pokemondb.net/pokedex/treecko)
+-   [![Mudkip](https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif)](https://pokemondb.net/pokedex/mudkip)
+-   [![Turtwig](https://img.pokemondb.net/sprites/black-white/anim/normal/turtwig.gif)](https://pokemondb.net/pokedex/turtwig)
+-   [![Chimchar](https://img.pokemondb.net/sprites/black-white/anim/normal/chimchar.gif)](https://pokemondb.net/pokedex/chimchar)
+-   [![Piplup](https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif)](https://pokemondb.net/pokedex/piplup)
+</div>
+
 
 ---
 
