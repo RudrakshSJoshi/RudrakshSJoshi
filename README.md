@@ -2,23 +2,21 @@
   <img src="github-gif.webp" width="648" height="auto" alt="Press Start To Play" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; text-align: center; gap: 20px;">
-  <!-- Left GIF -->
+<p align="center">
+  <!-- Hilbert (left) -->
   <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilbert.png#/media/File:Spr_B2W2_Hilbert.png">
     <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" alt="Spr B2W2 Hilbert.png" width="160" height="160">
   </a>
 
-  <!-- Center Text -->
-  <h1 style="margin: 0;">ちーっす！</h1>
+  <!-- Japanese Text (center) -->
+  <span style="font-size: 32px; font-weight: bold; margin: 0 20px;">ちーっす！</span>
 
-  <!-- Right GIF -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilda.png#/media/File:Spr_B2W2_Hilda.png">
-      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" alt="Spr B2W2 Hilda.png" width="80" height="80">
-    </a>
-    <a href="https://archives.bulbagarden.net/w/index.php?curid=121517">Link</a>
-  </div>
-</div>
+  <!-- Hilda (right) -->
+  <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilda.png#/media/File:Spr_B2W2_Hilda.png">
+    <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" alt="Spr B2W2 Hilda.png" width="160" height="160">
+  </a>
+</p>
+
 
 ## 🧠 About Me  
 - I am **Rudraksh**, a fourth-year CS undergrad at **IIT Dhanbad**.  
