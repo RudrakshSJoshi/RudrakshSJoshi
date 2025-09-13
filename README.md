@@ -56,8 +56,8 @@
       <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="180" />
       <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="180" />
       <br>
-      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="180" />
-      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="180" />
+      <img src="https://archives.bulbagarden.net/media/upload/b/b5/Spr_B2W2_Rosa.png" width="180" />
+      <img src="https://archives.bulbagarden.net/media/upload/c/cd/Spr_B2W2_Nate.png" width="180" />
     </p>
   </td>
 </tr>
