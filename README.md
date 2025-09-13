@@ -1,13 +1,23 @@
-<div class="grid cards" markdown>
-
--   🌟 Welcome, Trainer! 🌟
-
-    ---
-    [![Tepig](https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif)](https://pokemondb.net/pokedex/tepig) 
-    [![Oshawott](https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif)](https://pokemondb.net/pokedex/oshawott) 
-    [![Snivy](https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif)](https://pokemondb.net/pokedex/snivy)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        🌟 Welcome, Trainer! 🌟
+      </p>
+    </td>
+    <td>
+      <a href="https://pokemondb.net/pokedex/tepig">
+        <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="64" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/oshawott">
+        <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="64" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/snivy">
+        <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="64" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
