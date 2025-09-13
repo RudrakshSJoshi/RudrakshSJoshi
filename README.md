@@ -8,13 +8,13 @@
   <!-- Right column: GIFs -->
   <td valign="middle" align="center">
     <a href="https://pokemondb.net/pokedex/tepig">
-      <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="64" />
+      <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="90" />
     </a>
     <a href="https://pokemondb.net/pokedex/oshawott">
-      <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="64" />
+      <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="90" />
     </a>
     <a href="https://pokemondb.net/pokedex/snivy">
-      <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="64" />
+      <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="90" />
     </a>
   </td>
 </tr>
