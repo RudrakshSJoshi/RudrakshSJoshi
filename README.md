@@ -113,7 +113,7 @@ I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate
   <td valign="top" align="center">
     <a href="https://pokemondb.net/pokedex/milotic">
       <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/milotic-f.gif" 
-           style="width: 10vw; max-width: 96px; min-width: 64px;" />
+           style="width: 96px" />
     </a>
     <br><br>
     <a href="https://pokemondb.net/pokedex/haxorus">
