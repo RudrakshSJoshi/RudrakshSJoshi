@@ -1,3 +1,14 @@
+<div class="grid cards" markdown>
+
+-   🌟 Welcome, Trainer! 🌟
+
+    ---
+    [![Tepig](https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif)](https://pokemondb.net/pokedex/tepig) 
+    [![Oshawott](https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif)](https://pokemondb.net/pokedex/oshawott) 
+    [![Snivy](https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif)](https://pokemondb.net/pokedex/snivy)
+
+</div>
+
 <p align="center">
   <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
 </p>
