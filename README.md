@@ -4,10 +4,10 @@
 
 <h1 align="center">
   <img alt="Hilbert" src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png"
-       style="height: 5em; vertical-align: middle;" />
+       style="height: 10em; vertical-align: top;" />
   &nbsp;&nbsp;ちーっす！&nbsp;&nbsp;
   <img alt="Hilda" src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png"
-       style="height: 5em; vertical-align: middle;" />
+       style="height: 10em; vertical-align: top;" />
 </h1>
 
 ## 🧠 About Me  
