@@ -13,6 +13,15 @@
     I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
     <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
   </p>
+
+  <!-- Right-aligned GIFs -->
+  <p align="right">
+    <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" 
+        alt="Hilbert" width="180" height="180" />
+    <br>
+    <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" 
+        alt="Hilda" width="180" height="180" />
+  </p>
   
   <h2>🚀 Working On</h2>
   <ul style="margin-top: -10px;">
@@ -51,14 +60,6 @@
     📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">View Here</a>
   </p>
 
-  </div>
-
-  <!-- Right: GIFs aligned to the right -->
-  <div style="flex-shrink: 0; margin-left: 20px;">
-    <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png"
-         alt="Hilbert" width="180" height="180" style="margin-bottom: 12px; display: block;" />
-    <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png"
-         alt="Hilda" width="180" height="180" style="display: block;" />
   </div>
 
 </div>
