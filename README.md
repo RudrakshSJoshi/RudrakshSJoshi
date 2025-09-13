@@ -2,21 +2,34 @@
   <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
 </p>
 
-<!-- Intro + GIFs -->
+<!-- Intro + Content -->
 <div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
 
-  <!-- Left: About + Achievements + Contact -->
+  <!-- Left: Content -->
   <div style="flex: 1; background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: left;">
 
   <h2>🧠 About Me</h2>
   <p>
-    I’m <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
+    I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
     <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
   </p>
-  <p>
-    🚀 Working on: ViTs, VAEs, LLMs/SLMs, Zero-Knowledge ML, Federated Learning, Data-Centric AI, Unlearning. <br>
-    🔬 Focus: Blockchain & Healthcare AI, Human-AI Interaction, AGI, Learning Optimization, Multi-Agent Systems, AgenticAI.
-  </p>
+  
+  <h2>🚀 Working On</h2>
+  <ul style="margin-top: -10px;">
+    <li>Vision Transformers (ViTs)</li>
+    <li>Variational Autoencoders (VAEs)</li>
+    <li>Large & Small Language Models (LLMs/SLMs)</li>
+    <li>Zero-Knowledge Machine Learning</li>
+    <li>Federated Learning</li>
+    <li>Data-Centric AI</li>
+    <li>Machine Unlearning</li>
+    <li>Blockchain & Healthcare AI</li>
+    <li>Human-AI Interaction</li>
+    <li>AGI Research</li>
+    <li>Learning Optimization</li>
+    <li>Multi-Agent Systems</li>
+    <li>AgenticAI</li>
+  </ul>
 
   <hr>
 
@@ -24,7 +37,7 @@
   <ul>
     <li><b>Wallet Risk Scoring on Base Winner</b> (Base, Virtual, Hyperbolic)</li>
     <li><b>Aleph Hackathon Stellar Track Winner & Best Overall</b> (Mantle, ZkSync, Stellar, Polkadot)</li>
-    <li><b>HackFest’24 2nd Runner-Up</b> (IIT Dhanbad)</li>
+    <li><b>HackFest'24 2nd Runner-Up</b> (IIT Dhanbad)</li>
     <li><b>Agglomeration 1.0 2nd Runner-Up</b> (IIT Dhanbad)</li>
     <li><b>eYRC 2023-24 AIR 26</b> (IIT Bombay)</li>
   </ul>
@@ -41,7 +54,7 @@
   </div>
 
   <!-- Right: GIFs -->
-  <div style="flex-shrink: 0; text-align: center;">
+  <div style="flex-shrink: 0; text-align: center; margin-left: 20px;">
     <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png"
          alt="Hilbert" width="180" height="180" style="margin-bottom: 12px;" />
     <br>
