@@ -88,6 +88,8 @@ I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate
 
 <hr>
 
+<div align="center">
+
 <h2>🏅 Gym Badges</h2>
 
 <table>
@@ -121,16 +123,24 @@ I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate
 </td>
 </tr>
 </table>
+</div>
 
 <hr>
 
+<div align="center">
+
 <h2>🌐 Connect via Entralink</h2>
-<!-- Contact Info Box -->
-<div style="border: 2px solid #8A2BE2; border-radius: 12px; padding: 25px; text-align: center; max-width: 800px; margin: auto; background-color: #f3e8ff; font-size: 1.3em;">
-  📧 <b>Email:</b> <a href="mailto:rsjoshi0505@gmail.com">Send me a PokéMail!</a> <br><br>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/">Connect in Trainer Style</a> <br><br>
-  📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">Catch my Trainer Log!</a>
+
+<div style="border: 2px solid #8A2BE2; border-radius: 15px; background-color: #f3e8ff; padding: 20px; max-width: 700px; display: inline-block; text-align: center; font-size: 1.2em; line-height: 1.8;">
+  
+📧 <b>Email:</b> <a href="mailto:rsjoshi0505@gmail.com">Send me a PokéMail!</a><br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/">Connect in Trainer Style</a><br>
+📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">Catch my Trainer Log!</a>
+
 </div>
+
+</div>
+
 
 <br>
 
