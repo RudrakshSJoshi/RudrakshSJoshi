@@ -32,7 +32,7 @@
   <!-- Left: Text Content -->
   <div style="flex: 1; background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: left;">
 
-  <h2>🧠 About Me</h2>
+  <h2>📝 Trainer Profile</h2>
 <div style="border: 2px solid #FFD700; border-radius: 12px; padding: 20px; display: flex; align-items: center; gap: 20px; max-width: 800px; margin: auto; background-color: #fff8dc;">
   <!-- Text -->
   <h3 style="margin: 0; line-height: 1.4;">
@@ -52,7 +52,7 @@
 <tr>
   <!-- Left column: Working On list -->
   <td valign="top">
-    <h2>🚀 Working On</h2>
+    <h2>⚡ Current Quests</h2>
     <ul>
       <li>Vision Transformers (ViTs)</li>
       <li>Variational Autoencoders (VAEs)</li>
@@ -92,7 +92,7 @@
 
 <hr>
 
-<h2>🏆 Achievements</h2>
+<h2>🏅 Gym Badges</h2>
 
 <table>
 <tr>
@@ -128,7 +128,7 @@
 
 <hr>
 
-<h2>📬 Reach Me</h2>
+<h2>🌐 Connect via Entralink</h2>
 <!-- Contact Info Box -->
 <div style="border: 2px solid #8A2BE2; border-radius: 12px; padding: 25px; text-align: center; max-width: 800px; margin: auto; background-color: #f3e8ff; font-size: 1.3em;">
   📧 <b>Email:</b> <a href="mailto:rsjoshi0505@gmail.com">Send me a PokéMail!</a> <br><br>
@@ -185,7 +185,7 @@
 <!-- Tech Stack (center aligned) -->
 <div align="center">
 
-  <h2>🚀 My Skills</h2>
+  <h2>💫 Pokédex of Abilities</h2>
 
   <h3>🖥️ Programming Languages</h3>
   <p>
