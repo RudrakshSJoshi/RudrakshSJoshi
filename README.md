@@ -26,31 +26,28 @@
   <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
 </p>
 
-<!-- Centered Content with GIFs -->
-<div style="display: flex; justify-content: center; margin: 20px 0;">
+<!-- Content with centered GIF -->
+<div style="text-align: center;">
 
-  <div style="flex: 1; max-width: 900px; background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: left;">
+  <!-- Heading -->
+  <h2>📝 Trainer Profile</h2>
 
-    <h2>📝 Trainer Profile</h2>
+  <!-- Profile Box -->
+  <div>
+    <h3>
+      I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
+      <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
+    </h3>
 
-    <div style="border: 2px solid #FFD700; border-radius: 12px; padding: 20px; display: flex; align-items: center; gap: 20px; max-width: 800px; margin: auto; background-color: #fff8dc;">
-      
-      <!-- Text -->
-      <h3 style="margin: 0; line-height: 1.4;">
-        I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
-        <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
-      </h3>
-
-      <!-- Pikachu GIF -->
-      <a href="https://pokemondb.net/pokedex/pikachu">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" 
-             style="width: 80px; height: auto;" />
-      </a>
-
-    </div>
-
+    <!-- Pikachu GIF -->
+    <a href="https://pokemondb.net/pokedex/pikachu">
+      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" 
+           alt="Pikachu" width="80" />
+    </a>
   </div>
+
 </div>
+
 
 <table>
 <tr>
