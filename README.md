@@ -30,10 +30,10 @@
 
 <h2>📝 Trainer Profile</h2>
 
-<p>
+<h3>
 I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
 <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
-</p>
+</h3>
 
 <a href="https://pokemondb.net/pokedex/pikachu">
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" 
@@ -43,6 +43,7 @@ I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate
 </div>
 
 
+<div align="center">
 <table>
 <tr>
   <!-- Left column: Working On list -->
@@ -82,7 +83,7 @@ I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate
 
 </tr>
 </table>
-
+</div>
 </div>
 
 <hr>
