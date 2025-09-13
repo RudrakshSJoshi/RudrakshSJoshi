@@ -1,23 +1,16 @@
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        🌟 Welcome, Trainer! 🌟
-      </p>
-    </td>
-    <td>
-      <a href="https://pokemondb.net/pokedex/tepig">
-        <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="64" />
-      </a>
-      <a href="https://pokemondb.net/pokedex/oshawott">
-        <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="64" />
-      </a>
-      <a href="https://pokemondb.net/pokedex/snivy">
-        <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="64" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <span style="vertical-align: middle; font-size: 1.2em;">🌟 Welcome, Trainer! 🌟</span>
+  &nbsp;&nbsp;
+  <a href="https://pokemondb.net/pokedex/tepig">
+    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="64" />
+  </a>
+  <a href="https://pokemondb.net/pokedex/oshawott">
+    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="64" />
+  </a>
+  <a href="https://pokemondb.net/pokedex/snivy">
+    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="64" />
+  </a>
+</p>
 
 <p align="center">
   <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
