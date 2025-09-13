@@ -33,10 +33,20 @@
   <div style="flex: 1; background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: left;">
 
   <h2>🧠 About Me</h2>
-  <h3>
+<div style="border: 2px solid #FFD700; border-radius: 12px; padding: 20px; display: flex; align-items: center; gap: 20px; max-width: 800px; margin: auto; background-color: #fff8dc;">
+  <!-- Text -->
+  <h3 style="margin: 0; line-height: 1.4;">
     I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
     <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
   </h3>
+
+  <!-- Pikachu GIF -->
+  <a href="https://pokemondb.net/pokedex/pikachu">
+    <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" 
+         style="width: 80px; height: auto;" />
+  </a>
+</div>
+
 
 <table>
 <tr>
