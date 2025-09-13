@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="vertical-align: middle; font-size: 1.2em;">🌟 Welcome, Trainer! 🌟</span>
+  <span style="vertical-align: middle; font-size: 5em;">🌟 Welcome, Trainer! 🌟</span>
   &nbsp;&nbsp;
   <a href="https://pokemondb.net/pokedex/tepig">
     <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="64" />
