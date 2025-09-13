@@ -1,8 +1,10 @@
 <img src="pfp.gif" style="width:100%;" /> 
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <h1 style="margin-right: 10px;">ちーっす！</h1>
-  <img src="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilbert.png" width="160" height="160" />
+<div style="display: flex; align-items: center;">
+  <h1 style="margin-right: 20px;">ちーっす！</h1>
+  <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilbert.png#/media/File:Spr_B2W2_Hilbert.png">
+    <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" alt="Spr B2W2 Hilbert.png" width="160" height="160">
+  </a>
 </div>
 
 ## 🧠 About Me  
