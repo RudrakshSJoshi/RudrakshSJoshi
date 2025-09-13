@@ -1,5 +1,5 @@
 <p align="center">
-  # 🌟 WELCOME, TRAINER! 🌟
+  🌟 WELCOME, TRAINER! 🌟
   &nbsp;&nbsp;
   <a href="https://pokemondb.net/pokedex/tepig">
     <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="64" />
