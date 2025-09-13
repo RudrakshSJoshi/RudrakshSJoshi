@@ -143,37 +143,37 @@
   <tr>
     <td align="center">
       <a href="https://pokemondb.net/pokedex/bulbasaur">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/charmander">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/squirtle">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/chikorita">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/chikorita.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/chikorita.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/cyndaquil">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/cyndaquil.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/cyndaquil.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/totodile">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/totodile.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/totodile.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/treecko">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/treecko.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/treecko.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/mudkip">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/turtwig">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/turtwig.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/turtwig.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/chimchar">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/chimchar.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/chimchar.gif" width="60" />
       </a>
       <a href="https://pokemondb.net/pokedex/piplup">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif" width="80" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif" width="60" />
       </a>
     </td>
   </tr>
