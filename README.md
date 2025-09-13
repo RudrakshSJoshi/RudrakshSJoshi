@@ -27,27 +27,16 @@
 </p>
 
 <!-- Content with centered GIF -->
-<div style="text-align: center;">
+<p align="center">
 
-  <!-- Heading -->
-  <h2>📝 Trainer Profile</h2>
+### 📝 Trainer Profile
 
-  <!-- Profile Box -->
-  <div>
-    <h3>
-      I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
-      <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
-    </h3>
+I'm **Rudraksh**, a final-year CS undergrad at **IIT Dhanbad**, passionate about
+**Artificial Intelligence** & **Machine Learning**.
 
-    <!-- Pikachu GIF -->
-    <a href="https://pokemondb.net/pokedex/pikachu">
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" 
-           alt="Pikachu" width="80" />
-    </a>
-  </div>
+[![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif)](https://pokemondb.net/pokedex/pikachu)
 
-</div>
-
+</p>
 
 <table>
 <tr>
