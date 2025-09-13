@@ -64,14 +64,14 @@
 <td valign="top" align="center">
   <p>
     <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" 
-         style="width: 10vw; max-width: 180px;" />
+         style="width: 12vw; max-width: 180px;" />
     <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" 
-         style="width: 10vw; max-width: 180px;" />
+         style="width: 12vw; max-width: 180px;" />
     <br>
     <img src="https://archives.bulbagarden.net/media/upload/b/b5/Spr_B2W2_Rosa.png" 
-         style="width: 10vw; max-width: 180px;" />
+         style="width: 12vw; max-width: 180px;" />
     <img src="https://archives.bulbagarden.net/media/upload/c/cd/Spr_B2W2_Nate.png" 
-         style="width: 10vw; max-width: 180px;" />
+         style="width: 12vw; max-width: 180px;" />
   </p>
 </td>
 
@@ -104,13 +104,15 @@
   <!-- Right column: GIFs stacked vertically -->
   <td valign="top" align="center">
     <a href="https://pokemondb.net/pokedex/milotic">
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/milotic-f.gif" width="96" />
+      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/milotic-f.gif" 
+           style="width: 10vw; max-width: 96px;" />
     </a>
     <br><br>
     <a href="https://pokemondb.net/pokedex/haxorus">
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/haxorus.gif" width="96" />
+      <img src="https://img.pokemondb.net/sprites/black-white/2/anim/normal/haxorus.gif" 
+           style="width: 10vw; max-width: 96px;" />
     </a>
-  </td>
+</td>
 </tr>
 </table>
 
