@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PressStartToPlay.gif" width="648" height="auto" alt="Press Start To Play" />
+  <img src="github-gif.webp" width="648" height="auto" alt="Press Start To Play" />
 </p>
 
 <div style="display: flex; align-items: center;">
