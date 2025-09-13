@@ -2,11 +2,22 @@
   <img src="github-gif.webp" width="648" height="auto" alt="Press Start To Play" />
 </p>
 
-<div style="display: flex; align-items: center;">
-  <h1 style="margin-right: 20px;">ちーっす！</h1>
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; gap: 20px;">
+  <!-- Left GIF -->
   <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilbert.png#/media/File:Spr_B2W2_Hilbert.png">
     <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" alt="Spr B2W2 Hilbert.png" width="160" height="160">
   </a>
+
+  <!-- Center Text -->
+  <h1 style="margin: 0;">ちーっす！</h1>
+
+  <!-- Right GIF -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilda.png#/media/File:Spr_B2W2_Hilda.png">
+      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" alt="Spr B2W2 Hilda.png" width="80" height="80">
+    </a>
+    <a href="https://archives.bulbagarden.net/w/index.php?curid=121517">Link</a>
+  </div>
 </div>
 
 ## 🧠 About Me  
