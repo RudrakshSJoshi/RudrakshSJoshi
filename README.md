@@ -21,7 +21,17 @@
     </span>
   </div>
 
+  <!-- Right: Hilda (same size, clickable image only) -->
+  <div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
+    <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilda.png#/media/File:Spr_B2W2_Hilda.png">
+      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png"
+           alt="Spr B2W2 Hilda"
+           width="160" height="160"
+           style="display:block;"/>
+    </a>
+  </div>
 
+</div>
 
 ## 🧠 About Me  
 - I am **Rudraksh**, a fourth-year CS undergrad at **IIT Dhanbad**.  
