@@ -57,33 +57,31 @@
     </td>
   </tr>
 </table>
-
-
-  <hr>
-
-  <h2>🏆 Achievements</h2>
-- Winner: DeepFunding Competition – Contribution Modeling for Ethereum Open Source Ecosystem  
-- Winner: Aleph – LATAM Hackathon in AI Track by Protocol Labs  
-- Winner: Chromion – Chainlink Hackathon for AI-backed Cross Chain AMM CCIP Protocol on Avalanche Track  
-- Winner: Warpspeed – Agentic AI Hackathon for Agentic Security Research Development on Base Ecosystem  
-- Winner: Wallet Risk Scoring on Base (By Base, Virtual and Hyperbolic)  
-- Winner – Stellar Track & Best Overall Project: Aleph Hackathon (By World, Mantle, zkSync, Stellar, and Polkadot)  
-- 2nd Runner-Up: HackFest’24, IIT (ISM) Dhanbad  
-- 2nd Runner-Up: Agglomeration 1.0, IIT (ISM) Dhanbad  
-- Secured Team AIR 26: eYRC 2023-24 (Software Implementation)
-
-  <hr>
-
-  <h2>📬 Reach Me</h2>
-  <p>
-    📧 <b>Email:</b> rsjoshi0505@gmail.com <br>
-    💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/">rudraksh-sachin-joshi</a> <br>
-    📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">View Here</a>
-  </p>
-
-  </div>
-
 </div>
+
+<hr>
+
+<h2>🏆 Achievements</h2>
+<ul>
+  <li>Winner: DeepFunding Competition – Contribution Modeling for Ethereum Open Source Ecosystem</li>
+  <li>Winner: Aleph – LATAM Hackathon in AI Track by Protocol Labs</li>
+  <li>Winner: Chromion – Chainlink Hackathon for AI-backed Cross Chain AMM CCIP Protocol on Avalanche Track</li>
+  <li>Winner: Warpspeed – Agentic AI Hackathon for Agentic Security Research Development on Base Ecosystem</li>
+  <li>Winner: Wallet Risk Scoring on Base (By Base, Virtual and Hyperbolic)</li>
+  <li>Winner – Stellar Track & Best Overall Project: Aleph Hackathon (By World, Mantle, zkSync, Stellar, and Polkadot)</li>
+  <li>2nd Runner-Up: HackFest’24, IIT (ISM) Dhanbad</li>
+  <li>2nd Runner-Up: Agglomeration 1.0, IIT (ISM) Dhanbad</li>
+  <li>Secured Team AIR 26: eYRC 2023-24 (Software Implementation)</li>
+</ul>
+
+<hr>
+
+<h2>📬 Reach Me</h2>
+<p>
+  📧 <b>Email:</b> rsjoshi0505@gmail.com <br>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/">rudraksh-sachin-joshi</a> <br>
+  📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">View Here</a>
+</p>
 
 ---
 
