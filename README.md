@@ -1,4 +1,4 @@
-<img src="pfp.gif" style="width:100%;" /> 
+<img src="pkmn.gif" style="width:100%;" /> 
 
 <div style="display: flex; align-items: center;">
   <h1 style="margin-right: 20px;">ちーっす！</h1>
