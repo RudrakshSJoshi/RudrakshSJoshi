@@ -2,10 +2,10 @@
   <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
 </p>
 
-<!-- Intro + Content -->
-<div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
+<!-- Content with right-aligned GIFs -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
-  <!-- Left: Content -->
+  <!-- Left: Text Content -->
   <div style="flex: 1; background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: left;">
 
   <h2>🧠 About Me</h2>
@@ -53,13 +53,12 @@
 
   </div>
 
-  <!-- Right: GIFs -->
-  <div style="flex-shrink: 0; text-align: center; margin-left: 20px;">
+  <!-- Right: GIFs aligned to the right -->
+  <div style="flex-shrink: 0; margin-left: 20px;">
     <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png"
-         alt="Hilbert" width="180" height="180" style="margin-bottom: 12px;" />
-    <br>
+         alt="Hilbert" width="180" height="180" style="margin-bottom: 12px; display: block;" />
     <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png"
-         alt="Hilda" width="180" height="180" />
+         alt="Hilda" width="180" height="180" style="display: block;" />
   </div>
 
 </div>
