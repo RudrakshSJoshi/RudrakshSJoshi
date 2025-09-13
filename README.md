@@ -22,8 +22,6 @@
 </table>
 </div>
 
-
-
 <p align="center">
   <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
 </p>
@@ -65,11 +63,11 @@
   <!-- Right column: 2x2 grid images -->
   <td valign="top" align="center">
     <p>
-      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="180" />
-      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="180" />
+      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="160" />
+      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="160" />
       <br>
-      <img src="https://archives.bulbagarden.net/media/upload/b/b5/Spr_B2W2_Rosa.png" width="180" />
-      <img src="https://archives.bulbagarden.net/media/upload/c/cd/Spr_B2W2_Nate.png" width="180" />
+      <img src="https://archives.bulbagarden.net/media/upload/b/b5/Spr_B2W2_Rosa.png" width="160" />
+      <img src="https://archives.bulbagarden.net/media/upload/c/cd/Spr_B2W2_Nate.png" width="160" />
     </p>
   </td>
 </tr>
