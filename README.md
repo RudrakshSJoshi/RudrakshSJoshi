@@ -2,20 +2,25 @@
   <img src="github-gif.webp" width="648" height="auto" alt="Press Start To Play" />
 </p>
 
-<p align="center">
-  <!-- Hilbert (left) -->
-  <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilbert.png#/media/File:Spr_B2W2_Hilbert.png">
-    <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" alt="Spr B2W2 Hilbert.png" width="160" height="160">
-  </a>
+<div style="text-align: center;">
 
-  <!-- Japanese Text (center) -->
-  <span style="font-size: 32px; font-weight: bold; margin: 0 20px;">ちーっす！</span>
+  <!-- Left: Hilbert -->
+  <div style="display: inline-block; vertical-align: middle; margin-right: 20px;">
+    <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilbert.png#/media/File:Spr_B2W2_Hilbert.png">
+      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png"
+           alt="Spr B2W2 Hilbert"
+           width="160" height="160"
+           style="display:block;"/>
+    </a>
+  </div>
 
-  <!-- Hilda (right) -->
-  <a href="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilda.png#/media/File:Spr_B2W2_Hilda.png">
-    <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" alt="Spr B2W2 Hilda.png" width="160" height="160">
-  </a>
-</p>
+  <!-- Center: Japanese text (exactly vertically centered) -->
+  <div style="display: inline-block; vertical-align: middle; margin: 0 20px;">
+    <span style="display:inline-block; line-height:160px; font-size:32px; font-weight:700; margin:0;">
+      ちーっす！
+    </span>
+  </div>
+
 
 
 ## 🧠 About Me  
