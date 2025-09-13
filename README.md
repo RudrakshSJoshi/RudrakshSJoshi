@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-gif.webp" width="648" height="auto" alt="Press Start To Play" />
+  <img src="github-gif.webp" width="800" height="auto" alt="Press Start To Play" />
 </p>
 
 <h1 align="center">
@@ -10,22 +10,24 @@
        style="height: 6em; vertical-align: top;" />
 </h1>
 
-<div align="center" style="border: 2px solid #ccc; border-radius: 12px; padding: 16px; max-width: 700px; margin: auto;">
-
-  <h2>🧠 About Me</h2>
-
-  <p>
-    I’m <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
-    <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
-  </p>
-
-  <p>
-    🚀 Working on: ViTs, VAEs, LLMs/SLMs, Zero-Knowledge ML, Federated Learning, Data-Centric AI, Unlearning  
-    🔬 Focus: Blockchain & Healthcare AI, Human-AI Interaction, AGI, Learning Optimization, Multi-Agent Systems, AgenticAI
-  </p>
-
-</div>
-
+## 🧠 About Me  
+- I am **Rudraksh**, a fourth-year CS undergrad at **IIT Dhanbad**.  
+- Passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
+- 🚀 Currently working on:  
+  - **Vision Transformers (ViTs)**  
+  - **Variational Autoencoders (VAEs)**  
+  - **Large Language Models (LLMs) / Small Language Models (SLMs)**  
+  - **Zero-Knowledge Machine Learning**  
+  - **Distributed & Federated Learning**  
+  - **Data-Centric AI**  
+  - **Machine Unlearning**  
+- 🔬 Focused on:  
+  - **AI in Blockchain & Healthcare**  
+  - **Human-AI Interaction**  
+  - **Artificial General Intelligence (AGI)**  
+  - **Data & Learning Optimization in Machine Learning**  
+  - **Autonomous Agents & Multi-Agent Systems**  
+  - **AgenticAI**  
 
 ---
 
