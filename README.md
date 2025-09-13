@@ -2,68 +2,85 @@
   <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
 </p>
 
-<h1 align="center">
-  <img alt="Hilbert" src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png"
-       style="height: 6em; vertical-align: top;" />
-  &nbsp;&nbsp;ちーっす！&nbsp;&nbsp;
-  <img alt="Hilda" src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png"
-       style="height: 6em; vertical-align: top;" />
-</h1>
+<!-- Intro + GIFs -->
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
 
-## 🧠 About Me  
-- I am **Rudraksh**, a fourth-year CS undergrad at **IIT Dhanbad**.  
-- Passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
-- 🚀 Currently working on:  
-  - **Vision Transformers (ViTs)**  
-  - **Variational Autoencoders (VAEs)**  
-  - **Large Language Models (LLMs) / Small Language Models (SLMs)**  
-  - **Zero-Knowledge Machine Learning**  
-  - **Distributed & Federated Learning**  
-  - **Data-Centric AI**  
-  - **Machine Unlearning**  
-- 🔬 Focused on:  
-  - **AI in Blockchain & Healthcare**  
-  - **Human-AI Interaction**  
-  - **Artificial General Intelligence (AGI)**  
-  - **Data & Learning Optimization in Machine Learning**  
-  - **Autonomous Agents & Multi-Agent Systems**  
-  - **AgenticAI**  
+  <!-- Left: About + Achievements + Contact -->
+  <div style="flex: 1; background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: left;">
 
----
+  <h2>🧠 About Me</h2>
+  <p>
+    I’m <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
+    <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
+  </p>
+  <p>
+    🚀 Working on: ViTs, VAEs, LLMs/SLMs, Zero-Knowledge ML, Federated Learning, Data-Centric AI, Unlearning. <br>
+    🔬 Focus: Blockchain & Healthcare AI, Human-AI Interaction, AGI, Learning Optimization, Multi-Agent Systems, AgenticAI.
+  </p>
 
-## 🏆 Achievements  
+  <hr>
 
-### 🚀 Competitions & Hackathons  
-- **Wallet Risk Scoring on Base Winner** *(By Base, Virtual, and Hyperbolic)*  
-- **Aleph Hackathon Stellar Track Winner & Best Project Overall** *(By World, Mantle, ZkSync, Stellar, and Polkadot)*  
-- **HackFest’24 2nd Runner-Up** *(IIT (ISM) Dhanbad)*  
-- **Agglomeration 1.0 2nd Runner-Up** *(IIT (ISM) Dhanbad)*  
-- **eYRC 2023-24 Software Implementation Team AIR 26** *(IIT Bombay)*  
+  <h2>🏆 Achievements</h2>
+  <ul>
+    <li><b>Wallet Risk Scoring on Base Winner</b> (Base, Virtual, Hyperbolic)</li>
+    <li><b>Aleph Hackathon Stellar Track Winner & Best Overall</b> (Mantle, ZkSync, Stellar, Polkadot)</li>
+    <li><b>HackFest’24 2nd Runner-Up</b> (IIT Dhanbad)</li>
+    <li><b>Agglomeration 1.0 2nd Runner-Up</b> (IIT Dhanbad)</li>
+    <li><b>eYRC 2023-24 AIR 26</b> (IIT Bombay)</li>
+  </ul>
 
----
+  <hr>
 
-## 📬 Reach Me At  
-- 📧 **Email**: rsjoshi0505@gmail.com  
-- 💼 **LinkedIn**: [rudraksh-sachin-joshi](https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/)  
-- 📄 **CV**: [View Here](https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing)
+  <h2>📬 Reach Me</h2>
+  <p>
+    📧 <b>Email:</b> rsjoshi0505@gmail.com <br>
+    💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/">rudraksh-sachin-joshi</a> <br>
+    📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">View Here</a>
+  </p>
 
----
+  </div>
 
-## 🚀 My Skills
+  <!-- Right: GIFs -->
+  <div style="flex-shrink: 0; text-align: center;">
+    <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png"
+         alt="Hilbert" width="180" height="180" style="margin-bottom: 12px;" />
+    <br>
+    <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png"
+         alt="Hilda" width="180" height="180" />
+  </div>
 
-### 🖥️ Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,ts,lua,rust,matlab,bash,powershell)](https://skillicons.dev)
-
-### 🏗️ Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,react,nextjs,redux,tailwind,threejs,bootstrap,d3)](https://skillicons.dev)
-
-### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase)](https://skillicons.dev)
-
-### ☁️ DevOps & Cloud
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,nginx,vercel)](https://skillicons.dev)
-
-### 🛠️ Tools, Platforms & Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,cmake,raspberrypi,anaconda,vscode,visualstudio,pycharm,postman,wasm,graphql,arduino)](https://skillicons.dev)
+</div>
 
 ---
+
+<!-- Tech Stack (center aligned) -->
+<div align="center">
+
+  <h2>🚀 My Skills</h2>
+
+  <h3>🖥️ Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,lua,rust,matlab,bash,powershell" />
+  </p>
+
+  <h3>🏗️ Frameworks & Libraries</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,react,nextjs,redux,tailwind,threejs,bootstrap,d3" />
+  </p>
+
+  <h3>🗄️ Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" />
+  </p>
+
+  <h3>☁️ DevOps & Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,nginx,vercel" />
+  </p>
+
+  <h3>🛠️ Tools & Platforms</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,cmake,raspberrypi,anaconda,vscode,visualstudio,pycharm,postman,wasm,graphql,arduino" />
+  </p>
+
+</div>
