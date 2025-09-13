@@ -26,17 +26,22 @@
   <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
 </p>
 
-<!-- Content with centered GIF -->
-<p align="center">
+<div align="center">
 
-### 📝 Trainer Profile
+<h2>📝 Trainer Profile</h2>
 
-I'm **Rudraksh**, a final-year CS undergrad at **IIT Dhanbad**, passionate about
-**Artificial Intelligence** & **Machine Learning**.
-
-[![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif)](https://pokemondb.net/pokedex/pikachu)
-
+<p>
+I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
+<b>Artificial Intelligence</b> & <b>Machine Learning</b>.
 </p>
+
+<a href="https://pokemondb.net/pokedex/pikachu">
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" 
+       alt="Pikachu" width="80" />
+</a>
+
+</div>
+
 
 <table>
 <tr>
