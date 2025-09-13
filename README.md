@@ -28,7 +28,7 @@
     <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
   </h3>
 
-  <table>
+<table>
 <tr>
   <!-- Left column: Working On list -->
   <td valign="top">
@@ -50,26 +50,15 @@
     </ul>
   </td>
 
-  <!-- Right column: 2x2 images -->
+  <!-- Right column: 2x2 grid images -->
   <td valign="top" align="center">
-    <table>
-      <tr>
-        <td>
-          <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="90" />
-        </td>
-        <td>
-          <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="90" />
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://archives.bulbagarden.net/media/upload/0/0c/Spr_B2W2_Nate.png" width="90" />
-        </td>
-        <td>
-          <img src="https://archives.bulbagarden.net/media/upload/5/5d/Spr_B2W2_Rosa.png" width="90" />
-        </td>
-      </tr>
-    </table>
+    <p>
+      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="90" />
+      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="90" />
+      <br>
+      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="90" />
+      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="90" />
+    </p>
   </td>
 </tr>
 </table>
