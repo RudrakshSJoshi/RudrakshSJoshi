@@ -1,8 +1,9 @@
+<div align="center">
 <table>
 <tr>
   <!-- Left column: Welcome text -->
   <td valign="middle">
-    <h1 style="font-size: 2.5em; margin: 0;">🌟 WELCOME, TRAINER! 🌟</h1>
+    <h1 style="font-size: 2em;">WELCOME, TRAINER!</h1>
   </td>
 
   <!-- Right column: GIFs -->
@@ -19,6 +20,8 @@
   </td>
 </tr>
 </table>
+</div>
+
 
 
 <p align="center">
