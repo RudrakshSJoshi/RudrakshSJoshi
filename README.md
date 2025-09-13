@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pkmn.gif" style="width: 200%; height: auto; max-width: 200%;" />
+  <img src="pkmn.gif" width="648" height="auto" alt="Upscaled GIF" />
 </p>
 
 <div style="display: flex; align-items: center;">
