@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-gif.webp" width="800" height="auto" alt="Press Start To Play" />
+  <img src="github-gif.webp" width="900" height="auto" alt="Press Start To Play" />
 </p>
 
 <h1 align="center">
