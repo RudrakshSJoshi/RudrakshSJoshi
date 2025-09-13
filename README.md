@@ -14,31 +14,36 @@
     <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
   </p>
 
-  <!-- Right-aligned GIFs -->
-  <p align="right">
-    <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" 
-        alt="Hilbert" width="180" height="180" />
-    <br>
-    <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" 
-        alt="Hilda" width="180" height="180" />
-  </p>
-  
-  <h2>🚀 Working On</h2>
-  <ul style="margin-top: -10px;">
-    <li>Vision Transformers (ViTs)</li>
-    <li>Variational Autoencoders (VAEs)</li>
-    <li>Large & Small Language Models (LLMs/SLMs)</li>
-    <li>Zero-Knowledge Machine Learning</li>
-    <li>Federated Learning</li>
-    <li>Data-Centric AI</li>
-    <li>Machine Unlearning</li>
-    <li>Blockchain & Healthcare AI</li>
-    <li>Human-AI Interaction</li>
-    <li>AGI Research</li>
-    <li>Learning Optimization</li>
-    <li>Multi-Agent Systems</li>
-    <li>AgenticAI</li>
-  </ul>
+  <table>
+  <tr>
+    <td>
+      <h2>🚀 Working On</h2>
+      <ul>
+        <li>Vision Transformers (ViTs)</li>
+        <li>Variational Autoencoders (VAEs)</li>
+        <li>Large & Small Language Models (LLMs/SLMs)</li>
+        <li>Zero-Knowledge Machine Learning</li>
+        <li>Federated Learning</li>
+        <li>Data-Centric AI</li>
+        <li>Machine Unlearning</li>
+        <li>Blockchain & Healthcare AI</li>
+        <li>Human-AI Interaction</li>
+        <li>AGI Research</li>
+        <li>Learning Optimization</li>
+        <li>Multi-Agent Systems</li>
+        <li>AgenticAI</li>
+      </ul>
+    </td>
+    <td align="right">
+      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" 
+           alt="Hilbert" width="180" height="180" />
+      <br>
+      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" 
+           alt="Hilda" width="180" height="180" />
+    </td>
+  </tr>
+</table>
+
 
   <hr>
 
