@@ -53,11 +53,11 @@
   <!-- Right column: 2x2 grid images -->
   <td valign="top" align="center">
     <p>
-      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="90" />
-      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="90" />
+      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="180" />
+      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="180" />
       <br>
-      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="90" />
-      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="90" />
+      <img src="https://archives.bulbagarden.net/media/upload/a/a0/Spr_B2W2_Hilbert.png" width="180" />
+      <img src="https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Hilda.png" width="180" />
     </p>
   </td>
 </tr>
