@@ -1,6 +1,9 @@
 <img src="pfp.gif" style="width:100%;" /> 
 
-# ちーっす！  
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <h1 style="margin-right: 10px;">ちーっす！</h1>
+  <img src="https://archives.bulbagarden.net/wiki/File:Spr_B2W2_Hilbert.png" width="160" height="160" />
+</div>
 
 ## 🧠 About Me  
 - I am **Rudraksh**, a fourth-year CS undergrad at **IIT Dhanbad**.  
