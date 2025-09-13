@@ -139,42 +139,46 @@
 <br>
 
 <!-- Pokémon GIF Grid -->
-<div class="grid cards" markdown>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://pokemondb.net/pokedex/bulbasaur">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/charmander">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/squirtle">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/chikorita">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/chikorita.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/cyndaquil">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/cyndaquil.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/totodile">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/totodile.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/treecko">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/treecko.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/mudkip">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/turtwig">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/turtwig.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/chimchar">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/chimchar.gif" width="80" />
+      </a>
+      <a href="https://pokemondb.net/pokedex/piplup">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif" width="80" />
+      </a>
+    </td>
+  </tr>
+</table>
 
--   &#8203;
-    [![Bulbasaur](https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif)](https://pokemondb.net/pokedex/bulbasaur)
-
--   &#8203;
-    [![Charmander](https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif)](https://pokemondb.net/pokedex/charmander)
-
--   &#8203;
-    [![Squirtle](https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif)](https://pokemondb.net/pokedex/squirtle)
-
--   &#8203;
-    [![Chikorita](https://img.pokemondb.net/sprites/black-white/anim/normal/chikorita.gif)](https://pokemondb.net/pokedex/chikorita)
-
--   &#8203;
-    [![Cyndaquil](https://img.pokemondb.net/sprites/black-white/anim/normal/cyndaquil.gif)](https://pokemondb.net/pokedex/cyndaquil)
-
--   &#8203;
-    [![Totodile](https://img.pokemondb.net/sprites/black-white/anim/normal/totodile.gif)](https://pokemondb.net/pokedex/totodile)
-
--   &#8203;
-    [![Treecko](https://img.pokemondb.net/sprites/black-white/anim/normal/treecko.gif)](https://pokemondb.net/pokedex/treecko)
-
--   &#8203;
-    [![Mudkip](https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif)](https://pokemondb.net/pokedex/mudkip)
-
--   &#8203;
-    [![Turtwig](https://img.pokemondb.net/sprites/black-white/anim/normal/turtwig.gif)](https://pokemondb.net/pokedex/turtwig)
-
--   &#8203;
-    [![Chimchar](https://img.pokemondb.net/sprites/black-white/anim/normal/chimchar.gif)](https://pokemondb.net/pokedex/chimchar)
-
--   &#8203;
-    [![Piplup](https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif)](https://pokemondb.net/pokedex/piplup)
-
-</div>
 
 ---
 
