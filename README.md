@@ -109,7 +109,7 @@
     </a>
     <br><br>
     <a href="https://pokemondb.net/pokedex/haxorus">
-      <img src="https://img.pokemondb.net/sprites/black-white/2/anim/normal/haxorus.gif" 
+      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/haxorus.gif" 
            style="width: 10vw; max-width: 96px;" />
     </a>
 </td>
