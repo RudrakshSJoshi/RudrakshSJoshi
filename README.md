@@ -97,7 +97,7 @@ I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate
   <!-- Left column: Achievements list -->
   <td valign="top">
     <ul>
-      <li>Finalist Top 6: Amazon ML Challenge — Multimodal Embedding Fusion for Regression by Integrating Qwen3, DINOv3, and SigLIP2 via Lightweight Inference via MLP Pipeline</li>
+      <li>Finalist Top 6: Amazon ML Challenge — Multimodal Regression via Cross-Modal Embedding Fusion of Qwen3, DINOv3, and SigLIP2 through Lightweight MLP Inference</li>
       <li>Winner: DeepFunding Competition – Contribution Modeling for Ethereum Open Source Ecosystem</li>
       <li>Winner: Aleph – LATAM Hackathon in AI Track by Protocol Labs</li>
       <li>Winner: Chromion – Chainlink Hackathon for AI-backed Cross Chain AMM CCIP Protocol on Avalanche Track</li>
