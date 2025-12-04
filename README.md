@@ -135,7 +135,7 @@ I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate
 <div style="border: 2px solid #8A2BE2; border-radius: 15px; background-color: #f3e8ff; padding: 20px; max-width: 700px; display: inline-block; text-align: center; font-size: 1.2em; line-height: 1.8;">
   
 📧 <b>Email:</b> <a href="mailto:rsjoshi0505@gmail.com">Send me a PokéMail!</a><br>
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/">Connect in Trainer Style</a><br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi">Connect in Trainer Style</a><br>
 📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">Catch my Trainer Log!</a>
 
 </div>
