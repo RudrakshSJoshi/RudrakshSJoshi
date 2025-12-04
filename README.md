@@ -31,11 +31,7 @@
 <h2>📝 Trainer Profile</h2>
 
 <h3>
-I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about
-<b>Artificial Intelligence</b> & <b>Machine Learning</b>.
-</h3>
-<h3>
-I am an upcoming Applied Scientist Intern at Amazon, and a former Platform Intelligence Intern at Samsung Research.
+I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate about <b>Artificial Intelligence</b> and <b>Machine Learning</b>, currently heading to Amazon as an <b>Applied Scientist Intern</b> and previously a <b>Platform Intelligence Intern</b> at Samsung Research.
 </h3>
 
 <a href="https://pokemondb.net/pokedex/pikachu">
