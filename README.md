@@ -35,7 +35,7 @@ I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate
 <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
 </h3>
 <h3>
-I am an upcoming **Applied Scientist Intern at Amazon**, and a former **Platform Intelligence Intern at Samsung Research**.
+I am an upcoming Applied Scientist Intern at Amazon, and a former Platform Intelligence Intern at Samsung Research.
 </h3>
 
 <a href="https://pokemondb.net/pokedex/pikachu">
