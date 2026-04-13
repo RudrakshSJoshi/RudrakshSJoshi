@@ -169,6 +169,9 @@ I'm <b>Rudraksh</b>, a final-year CS undergrad at <b>IIT Dhanbad</b>, passionate
       <a href="https://pokemondb.net/pokedex/treecko">
         <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/treecko.gif" width="60" />
       </a>
+      <a href="https://pokemondb.net/pokedex/torchic">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/torchic.gif" width="60" />
+      </a>
       <a href="https://pokemondb.net/pokedex/mudkip">
         <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif" width="60" />
       </a>
