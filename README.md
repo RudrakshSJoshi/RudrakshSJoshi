@@ -133,7 +133,7 @@
   
 📧 <b>Email:</b> <a href="mailto:rsjoshi0505@gmail.com">Send me a PokéMail!</a><br>
 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rudraksh-sachin-joshi">Connect in Trainer Style</a><br>
-📄 <b>CV:</b> <a href="https://drive.google.com/file/d/1Fln0qHTpcBtLuMO51ebSi2GF9KS6Z6C8/view?usp=sharing">Catch my Trainer Log!</a>
+📄 <b>CV:</b> <a href="https://drive.google.com/file/d/16kBYvS35Z5nHLxbZtZMxjxCG7gGfmPjI/view?usp=sharing">Catch my Trainer Log!</a>
 
 </div>
 
