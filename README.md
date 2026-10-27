@@ -81,7 +81,7 @@
 <table>
   <tr>
     <th colspan="2" align="center">
-      <strong>🏅 Gym Badges</strong>
+      <span><strong>🏅 Gym Badges</strong></span>
     </th>
   </tr>
   <tr>
