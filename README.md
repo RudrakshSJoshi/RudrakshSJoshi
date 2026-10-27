@@ -6,27 +6,12 @@
       </summary>
     </ul>
   </div>
-  
-<a href="https://pokemondb.net/pokedex/tepig">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif">
-    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="120" />
-  </picture>
-</a>
-&nbsp;&nbsp;
-<a href="https://pokemondb.net/pokedex/oshawott">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif">
-    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="120" />
-  </picture>
-</a>
-&nbsp;&nbsp;
-<a href="https://pokemondb.net/pokedex/snivy">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif">
-    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="120" />
-  </picture>
-</a>
+
+  <a href="https://pokemondb.net/pokedex/tepig"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="100" /></a>
+  &nbsp;&nbsp;
+  <a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="100" /></a>
+  &nbsp;&nbsp;
+  <a href="https://pokemondb.net/pokedex/snivy"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="100" /></a>
 </div>
 
 <p align="center">
