@@ -63,29 +63,16 @@
     </ul>
   </td>
 
-<!-- Right column: responsive 2x2 trainer grid -->
-<td valign="top" align="center">
-  <p>
-    <picture>
-      <source media="(max-width: 600px)" srcset="assets/Hilbert.gif">
-      <img src="assets/Hilbert.gif" width="180" style="width: 12vw; max-width: 180px;" />
-    </picture>
-    <picture>
-      <source media="(max-width: 600px)" srcset="assets/Hilda.gif">
-      <img src="assets/Hilda.gif" width="180" style="width: 12vw; max-width: 180px;" />
-    </picture>
-    <br>
-    <picture>
-      <source media="(max-width: 600px)" srcset="assets/Rosa.gif">
-      <img src="assets/Rosa.gif" width="180" style="width: 12vw; max-width: 180px;" />
-    </picture>
-    <picture>
-      <source media="(max-width: 600px)" srcset="assets/Nate.gif">
-      <img src="assets/Nate.gif" width="180" style="width: 12vw; max-width: 180px;" />
-    </picture>
-  </p>
-</td>
-
+  <!-- Right column: 2x2 grid images responsive -->
+  <td valign="top" align="center">
+    <p>
+      <img src="assets/Hilbert.gif" width="120" />
+      <img src="assets/Hilda.gif" width="120" />
+      <br>
+      <img src="assets/Rosa.gif" width="120" />
+      <img src="assets/Nate.gif" width="120" />
+    </p>
+  </td>
 </tr>
 </table>
 </div>
