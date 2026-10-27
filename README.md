@@ -3,7 +3,13 @@
 <tr>
   <!-- Left column: Welcome text -->
   <td valign="middle">
-    <h1 style="font-size: 2em;">WELCOME, TRAINER!</h1>
+    <div id="toc">
+      <ul align="center" style="list-style: none">
+        <summary>
+          <h1 style="font-size: 2em;">WELCOME, TRAINER!</h1>
+        </summary>
+      </ul>
+    </div>
   </td>
 
   <!-- Right column: GIFs -->
@@ -43,7 +49,13 @@
 <table>
   <tr>
     <th colspan="2" align="center">
-      <h2>⚡ Current Quests</h2>
+      <div id="toc">
+        <ul align="center" style="list-style: none">
+          <summary>
+            <h2>⚡ Current Quests</h2>
+          </summary>
+        </ul>
+      </div>
     </th>
   </tr>
   <tr>
