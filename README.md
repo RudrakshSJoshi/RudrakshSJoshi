@@ -39,43 +39,43 @@
 
 </div>
 
-
 <div align="center">
 <table>
-<tr>
-  <!-- Left column: Working On list -->
-  <td valign="top">
-    <h2>⚡ Current Quests</h2>
-    <ul>
-      <li>Vision Transformers (ViTs)</li>
-      <li>Variational Autoencoders (VAEs)</li>
-      <li>Large & Small Language Models (LLMs/SLMs)</li>
-      <li>Zero-Knowledge Machine Learning</li>
-      <li>Federated Learning</li>
-      <li>Data-Centric AI</li>
-      <li>Machine Unlearning</li>
-      <li>Blockchain & Healthcare AI</li>
-      <li>Human-AI Interaction</li>
-      <li>AGI Research</li>
-      <li>Learning Optimization</li>
-      <li>Multi-Agent Systems</li>
-      <li>AgenticAI</li>
-    </ul>
-  </td>
+  <tr>
+    <td colspan="2" align="center">
+      <h2>⚡ Current Quests</h2>
+    </td>
+  </tr>
+  <tr>
+    <!-- Left column: Working On list -->
+    <td valign="top">
+      <ul>
+        <li>Vision Transformers (ViTs)</li>
+        <li>Variational Autoencoders (VAEs)</li>
+        <li>Large & Small Language Models (LLMs/SLMs)</li>
+        <li>Zero-Knowledge Machine Learning</li>
+        <li>Federated Learning</li>
+        <li>Data-Centric AI</li>
+        <li>Machine Unlearning</li>
+        <li>Blockchain & Healthcare AI</li>
+        <li>Human-AI Interaction</li>
+        <li>AGI Research</li>
+        <li>Learning Optimization</li>
+        <li>Multi-Agent Systems</li>
+        <li>AgenticAI</li>
+      </ul>
+    </td>
 
-  <!-- Right column: 2x2 grid images responsive -->
-  <td valign="top" align="center">
-    <p>
+    <!-- Right column: Trainer GIFs -->
+    <td valign="middle" align="center">
       <img src="assets/Hilbert.gif" width="120" />
       <img src="assets/Hilda.gif" width="120" />
       <br>
       <img src="assets/Rosa.gif" width="120" />
       <img src="assets/Nate.gif" width="120" />
-    </p>
-  </td>
-</tr>
+    </td>
+  </tr>
 </table>
-</div>
 </div>
 
 <hr>
