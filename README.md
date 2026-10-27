@@ -63,20 +63,32 @@
     </ul>
   </td>
 
-  <!-- Right column: 2x2 grid images responsive -->
+<!-- Right column: 2x2 grid images responsive -->
+
 <td valign="top" align="center">
   <p>
-    <img src="assets/Hilbert.gif" 
-         style="width: 12vw; max-width: 180px;" />
-    <img src="assets/Hilda.gif" 
-         style="width: 12vw; max-width: 180px;" />
+    <img src="assets/Hilbert.gif" class="trainer-sprite" />
+    <img src="assets/Hilda.gif" class="trainer-sprite" />
     <br>
-    <img src="assets/Rosa.gif" 
-         style="width: 12vw; max-width: 180px;" />
-    <img src="assets/Nate.gif" 
-         style="width: 12vw; max-width: 180px;" />
+    <img src="assets/Rosa.gif" class="trainer-sprite" />
+    <img src="assets/Nate.gif" class="trainer-sprite" />
   </p>
 </td>
+
+<style>
+  .trainer-sprite {
+    width: 12vw;
+    max-width: 180px;
+    height: auto;
+  }
+
+  @media (max-width: 600px) {
+    .trainer-sprite {
+      width: 35vw;
+      max-width: 150px;
+    }
+  }
+</style>
 
 </tr>
 </table>
