@@ -1,3 +1,21 @@
+<style>
+  .starter-pokemon {
+    display: inline-block;
+    width: 100px;
+  }
+
+  .starter-pokemon img {
+    width: 100%;
+  }
+
+  @media screen and (max-width: 600px) {
+    .starter-pokemon {
+      display: block;
+      margin: 8px auto;
+    }
+  }
+</style>
+
 <div align="center">
   <div id="toc">
     <ul align="center" style="list-style: none">
@@ -9,14 +27,14 @@
 </div>
 
 <div align="center">
-  <a href="https://pokemondb.net/pokedex/tepig">
-    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="100" />
+  <a class="starter-pokemon" href="https://pokemondb.net/pokedex/tepig">
+    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" />
   </a>
-  <a href="https://pokemondb.net/pokedex/oshawott">
-    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="100" />
+  <a class="starter-pokemon" href="https://pokemondb.net/pokedex/oshawott">
+    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" />
   </a>
-  <a href="https://pokemondb.net/pokedex/snivy">
-    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="100" />
+  <a class="starter-pokemon" href="https://pokemondb.net/pokedex/snivy">
+    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" />
   </a>
 </div>
 
@@ -32,7 +50,7 @@
 
 <a href="https://pokemondb.net/pokedex/pikachu">
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" 
-       alt="Pikachu" width="80" />
+       alt="Pikachu" width="100" />
 </a>
 
 </div>
