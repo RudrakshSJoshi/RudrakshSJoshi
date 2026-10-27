@@ -67,7 +67,7 @@
     <td valign="middle" align="center">
       <img src="assets/Hilbert.gif" width="120" />
       <img src="assets/Hilda.gif" width="120" />
-      <br>
+      <br><br>
       <img src="assets/Rosa.gif" width="120" />
       <img src="assets/Nate.gif" width="120" />
     </td>
@@ -81,7 +81,7 @@
 <table>
   <tr>
     <th colspan="2" align="center">
-      <h2>🏅 Gym Badges</h2>
+      <strong>🏅 Gym Badges</strong>
     </th>
   </tr>
   <tr>
