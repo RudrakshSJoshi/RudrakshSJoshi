@@ -77,11 +77,11 @@
       </ul>
     </td>
     <td valign="middle" align="center">
-      <img src="assets/Hilbert.gif" width="120" />
-      <img src="assets/Hilda.gif" width="120" />
+      <img src="assets/Hilbert.gif" width="100" />
+      <img src="assets/Hilda.gif" width="100" />
       <br><br>
-      <img src="assets/Rosa.gif" width="120" />
-      <img src="assets/Nate.gif" width="120" />
+      <img src="assets/Rosa.gif" width="100" />
+      <img src="assets/Nate.gif" width="100" />
     </td>
   </tr>
 </table>
@@ -121,17 +121,17 @@
     <!-- Right column: Pokémon GIFs -->
     <td valign="middle" align="center">
       <a href="https://pokemondb.net/pokedex/milotic">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/milotic-f.gif" width="120" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/milotic-f.gif" width="100" />
       </a>
       <a href="https://pokemondb.net/pokedex/haxorus">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/haxorus.gif" width="120" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/haxorus.gif" width="100" />
       </a>
       <br><br>
       <a href="https://pokemondb.net/pokedex/metagross">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif" width="120" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif" width="100" />
       </a>
       <a href="https://pokemondb.net/pokedex/luxray">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/luxray.gif" width="120" />
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/luxray.gif" width="100" />
       </a>
     </td>
   </tr>
