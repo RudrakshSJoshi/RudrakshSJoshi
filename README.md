@@ -1,20 +1,4 @@
 <div align="center">
-  <a href="https://pokemondb.net/pokedex/tepig">
-    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="90" />
-  </a>
-  <a href="https://pokemondb.net/pokedex/oshawott">
-    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="90" />
-  </a>
-  <a href="https://pokemondb.net/pokedex/snivy">
-    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="90" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="YOUR_GITHUB_GIF_PATH" />
-</div>
-
-<div align="center">
   <div id="toc">
     <ul align="center" style="list-style: none">
       <summary>
@@ -22,6 +6,18 @@
       </summary>
     </ul>
   </div>
+</div>
+
+<div align="center">
+  <a href="https://pokemondb.net/pokedex/tepig">
+    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="100" />
+  </a>
+  <a href="https://pokemondb.net/pokedex/oshawott">
+    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="100" />
+  </a>
+  <a href="https://pokemondb.net/pokedex/snivy">
+    <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="100" />
+  </a>
 </div>
 
 <p align="center">
