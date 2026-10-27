@@ -105,7 +105,6 @@
       <a href="https://pokemondb.net/pokedex/milotic">
         <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/milotic-f.gif" width="120" />
       </a>
-      <br><br>
       <a href="https://pokemondb.net/pokedex/haxorus">
         <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/haxorus.gif" width="120" />
       </a>
@@ -113,7 +112,6 @@
       <a href="https://pokemondb.net/pokedex/metagross">
         <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif" width="120" />
       </a>
-      <br><br>
       <a href="https://pokemondb.net/pokedex/luxray">
         <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/luxray.gif" width="120" />
       </a>
