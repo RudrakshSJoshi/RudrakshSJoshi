@@ -42,13 +42,12 @@
 <div align="center">
 <table>
   <tr>
-    <td colspan="2" align="center">
+    <th colspan="2" align="center">
       <h2>⚡ Current Quests</h2>
-    </td>
+    </th>
   </tr>
   <tr>
-    <!-- Left column: Working On list -->
-    <td valign="top">
+    <td valign="middle">
       <ul>
         <li>Vision Transformers (ViTs)</li>
         <li>Variational Autoencoders (VAEs)</li>
@@ -65,8 +64,6 @@
         <li>AgenticAI</li>
       </ul>
     </td>
-
-    <!-- Right column: Trainer GIFs -->
     <td valign="middle" align="center">
       <img src="assets/Hilbert.gif" width="120" />
       <img src="assets/Hilda.gif" width="120" />
