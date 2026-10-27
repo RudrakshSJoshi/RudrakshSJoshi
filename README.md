@@ -1,40 +1,29 @@
 <div align="center">
 <table>
-  <tr>
-    <td colspan="3" align="center">
-      <a href="https://pokemondb.net/pokedex/pikachu">
-        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" width="90" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://pokemondb.net/pokedex/tepig">
-        <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="90" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <div id="toc">
-        <ul align="center" style="list-style: none">
-          <summary>
-            <h1 style="font-size: 2em;">WELCOME, TRAINER!</h1>
-          </summary>
-        </ul>
-      </div>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://pokemondb.net/pokedex/snivy">
-        <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="90" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <a href="https://pokemondb.net/pokedex/oshawott">
-        <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="90" />
-      </a>
-    </td>
-  </tr>
+<tr>
+  <td colspan="2" align="center">
+    <a href="https://pokemondb.net/pokedex/tepig">
+      <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/tepig.gif" width="90" />
+    </a>
+    <a href="https://pokemondb.net/pokedex/oshawott">
+      <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="90" />
+    </a>
+    <a href="https://pokemondb.net/pokedex/snivy">
+      <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/snivy.gif" width="90" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <div id="toc">
+      <ul align="center" style="list-style: none">
+        <summary>
+          <h1 style="font-size: 2em;">WELCOME, TRAINER!</h1>
+        </summary>
+      </ul>
+    </div>
+  </td>
+</tr>
 </table>
 </div>
 
