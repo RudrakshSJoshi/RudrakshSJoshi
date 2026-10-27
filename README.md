@@ -76,18 +76,19 @@
 </td>
 
 <style>
+.trainer-sprite {
+  width: 12vw;
+  max-width: 180px;
+  height: auto;
+}
+
+@media (max-width: 600px) {
   .trainer-sprite {
-    width: 12vw;
-    max-width: 180px;
+    width: 42vw;
+    max-width: none;
     height: auto;
   }
-
-  @media (max-width: 600px) {
-    .trainer-sprite {
-      width: 35vw;
-      max-width: 150px;
-    }
-  }
+}
 </style>
 
 </tr>
