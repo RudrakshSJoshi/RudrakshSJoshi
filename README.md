@@ -63,33 +63,28 @@
     </ul>
   </td>
 
-<!-- Right column: 2x2 grid images responsive -->
-
+<!-- Right column: responsive 2x2 trainer grid -->
 <td valign="top" align="center">
   <p>
-    <img src="assets/Hilbert.gif" class="trainer-sprite" />
-    <img src="assets/Hilda.gif" class="trainer-sprite" />
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/Hilbert.gif">
+      <img src="assets/Hilbert.gif" width="180" style="width: 12vw; max-width: 180px;" />
+    </picture>
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/Hilda.gif">
+      <img src="assets/Hilda.gif" width="180" style="width: 12vw; max-width: 180px;" />
+    </picture>
     <br>
-    <img src="assets/Rosa.gif" class="trainer-sprite" />
-    <img src="assets/Nate.gif" class="trainer-sprite" />
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/Rosa.gif">
+      <img src="assets/Rosa.gif" width="180" style="width: 12vw; max-width: 180px;" />
+    </picture>
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/Nate.gif">
+      <img src="assets/Nate.gif" width="180" style="width: 12vw; max-width: 180px;" />
+    </picture>
   </p>
 </td>
-
-<style>
-.trainer-sprite {
-  width: 12vw;
-  max-width: 180px;
-  height: auto;
-}
-
-@media (max-width: 600px) {
-  .trainer-sprite {
-    width: 42vw;
-    max-width: none;
-    height: auto;
-  }
-}
-</style>
 
 </tr>
 </table>
