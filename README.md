@@ -78,40 +78,47 @@
 <hr>
 
 <div align="center">
-
-<h2>🏅 Gym Badges</h2>
-
 <table>
-<tr>
-  <!-- Left column: Achievements list -->
-  <td valign="top">
-    <ul>
-      <li>Finalist Top 6: Amazon ML Challenge — Multimodal Regression via Cross-Modal Embedding Fusion of Qwen3, DINOv3, and SigLIP2 through Lightweight MLP Inference</li>
-      <li>Winner: DeepFunding Competition – Contribution Modeling for Ethereum Open Source Ecosystem</li>
-      <li>Winner: Aleph – LATAM Hackathon in AI Track by Protocol Labs</li>
-      <li>Winner: Chromion – Chainlink Hackathon for AI-backed Cross Chain AMM CCIP Protocol on Avalanche Track</li>
-      <li>Winner: Warpspeed – Agentic AI Hackathon for Agentic Security Research Development on Base Ecosystem</li>
-      <li>Winner: Wallet Risk Scoring on Base (By Base, Virtual and Hyperbolic)</li>
-      <li>Winner – Stellar Track & Best Overall Project: Aleph Hackathon (By World, Mantle, zkSync, Stellar, and Polkadot)</li>
-      <li>2nd Runner-Up: HackFest’24, IIT (ISM) Dhanbad</li>
-      <li>2nd Runner-Up: Agglomeration 1.0, IIT (ISM) Dhanbad</li>
-      <li>Secured Team AIR 26: eYRC 2023-24 (Software Implementation)</li>
-    </ul>
-  </td>
-
-  <!-- Right column: GIFs stacked vertically -->
-  <td valign="top" align="center">
-    <a href="https://pokemondb.net/pokedex/milotic">
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/milotic-f.gif" 
-           style="width: 10vw; max-width: 96px; min-width: 64px;" />
-    </a>
-    <br><br>
-    <a href="https://pokemondb.net/pokedex/haxorus">
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/haxorus.gif" 
-           style="width: 10vw; max-width: 96px; min-width: 64px;" />
-    </a>
-</td>
-</tr>
+  <tr>
+    <th colspan="2" align="center">
+      <h2>🏅 Gym Badges</h2>
+    </th>
+  </tr>
+  <tr>
+    <!-- Left column: Achievements list -->
+    <td valign="middle">
+      <ul>
+        <li>Finalist Top 6: Amazon ML Challenge — Multimodal Regression via Cross-Modal Embedding Fusion of Qwen3, DINOv3, and SigLIP2 through Lightweight MLP Inference</li>
+        <li>Winner: DeepFunding Competition – Contribution Modeling for Ethereum Open Source Ecosystem</li>
+        <li>Winner: Aleph – LATAM Hackathon in AI Track by Protocol Labs</li>
+        <li>Winner: Chromion – Chainlink Hackathon for AI-backed Cross Chain AMM CCIP Protocol on Avalanche Track</li>
+        <li>Winner: Warpspeed – Agentic AI Hackathon for Agentic Security Research Development on Base Ecosystem</li>
+        <li>Winner: Wallet Risk Scoring on Base (By Base, Virtual and Hyperbolic)</li>
+        <li>Winner – Stellar Track & Best Overall Project: Aleph Hackathon (By World, Mantle, zkSync, Stellar, and Polkadot)</li>
+        <li>2nd Runner-Up: HackFest’24, IIT (ISM) Dhanbad</li>
+        <li>2nd Runner-Up: Agglomeration 1.0, IIT (ISM) Dhanbad</li>
+        <li>Secured Team AIR 26: eYRC 2023-24 (Software Implementation)</li>
+      </ul>
+    </td>
+    <!-- Right column: Pokémon GIFs -->
+    <td valign="middle" align="center">
+      <a href="https://pokemondb.net/pokedex/milotic">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/milotic-f.gif" width="90" />
+      </a>
+      <br><br>
+      <a href="https://pokemondb.net/pokedex/haxorus">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/haxorus.gif" width="90" />
+      </a>
+      <br><br>
+      <a href="https://pokemondb.net/pokedex/metagross">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif" width="90" />
+      </a>
+      <br><br>
+      <a href="https://pokemondb.net/pokedex/luxray">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/luxray.gif" width="90" />
+      </a>
+    </td>
+  </tr>
 </table>
 </div>
 
