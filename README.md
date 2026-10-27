@@ -81,7 +81,13 @@
 <table>
   <tr>
     <th colspan="2" align="center">
-      <span><strong>🏅 Gym Badges</strong></span>
+      <div id="toc">
+        <ul align="center" style="list-style: none">
+          <summary>
+            <h2>🏅 Gym Badges</h2>
+          </summary>
+        </ul>
+      </div>
     </th>
   </tr>
   <tr>
